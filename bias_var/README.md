@@ -4,3 +4,4 @@
 
 Jupyter notebook to understand bias-variance trade off. The notebook provide derivation of the the trade-off and also provide interactive visualation for the same.
 
+Click on Binder badge above to open interactive version of the notebook.
